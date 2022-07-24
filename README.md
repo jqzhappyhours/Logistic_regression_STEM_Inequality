@@ -18,7 +18,7 @@ Data source: 2013 American Community Survey
 
 # Exploratary Data Analysis
 - There is interaction between gender and age in influencing the response variables
-- States like California tend produce more individuals in STEM
+- States like California tend to produce more individuals in STEM
 - Asian Americans w/ a STEM degree are mostly likely to work in STEM
 
 # Modeling
